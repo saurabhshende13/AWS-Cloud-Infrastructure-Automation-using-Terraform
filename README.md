@@ -1,6 +1,6 @@
 # AWS-Cloud-Infrastructure-Automation-using-Terraform
-Based on the architecture diagram, this project represents a **Multi-Tier Scalable Web Application Deployment on AWS** using Terraform. Below is the **GitHub README documentation format** for your project.  
 
+![Architecture](project.png)
 ---
 
 ## 📖 **Project Overview**  
